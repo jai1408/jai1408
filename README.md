@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jai1408&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
