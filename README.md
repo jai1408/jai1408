@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
+## Connect with me:
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+
 <!--
 **jai1408/jai1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
